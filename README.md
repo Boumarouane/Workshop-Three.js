@@ -8,6 +8,8 @@ Bienvenue dans notre workshop sur Three.js on essayera de vous apprendre a :
 
 + Implémenter un effet hover dans un site.
 
++ Utilisation CSS3D.
+
 + Utliser l'AR.
 
 Ici nous allons détailler les étapes de chaque atelier pour que vous puissier suivre et pouvoir checker si le code corespond.
